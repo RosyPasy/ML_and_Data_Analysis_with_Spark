@@ -1,0 +1,1 @@
+# Machine Learning and Data Analysis with Spark\nThis repository contains IPython notebooks that demonstrate the use of Spark/PySpark for Machine Learning and Data Analysis. It's maintained and updated by the owner, RosyPasy.
